@@ -1,0 +1,6 @@
+local-preview*.log
+tests/*.png
+tests/__pycache__/
+figure-development/
+_site*/
+assets/gokhan-aslan-portrait.png
